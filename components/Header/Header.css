@@ -1,0 +1,16 @@
+.header {
+    border-bottom: 1px solid black;
+    box-shadow: rgba(0, 0, 0, 0.45) 0px 25px 20px -20px;
+    padding: 0.1rem;
+    font-size: 1.5rem;
+    position: static;
+}
+
+.color1 {
+    color: red;
+    text-shadow: 1px 1px black;
+}
+
+.color2 {
+    text-shadow: 1px 1px red;
+}
